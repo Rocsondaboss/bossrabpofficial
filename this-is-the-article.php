@@ -1,6 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The bashing against Duterte (January-April 2020)</title>
+</head>
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<body>
+
+
 
 <!------ Include the above in your HEAD tag ---------->
 
@@ -44,7 +54,37 @@
     <div class="container container mt-4 mb-9" style="margin-top: 25px;">
         <h3 class="display-4 text-center"> RABP </h3>
         <hr class="bg-dark mb-4 w-25">
-        <h1 style="font-size:50px;">My title</h1>
+        <h1 style="font-size:50px;">The bashing against Duterte (January-April 2020)</h1>
+        <h1 style="font-size:16px;">Posted on March 30, 2020</h1>
+
+        <p><center><img src="img/FB_IMG_1585482313652.jpg"  width="180" height="269.667"></center></p>
+        <p>The image was retrieved by one of the members of Duterte supporters' fan page. The image shows Duterte eating his simple breakfast during his 75th birthday on March 28, 2020 while he is being self-quarantine in Malacañang amidst the <a href="https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Philippines">coronavirus (Covid-19) pandemic in the Philippines</a>. However, a certain anti-Duterte basher named Nimfa Cruz lambasted via her Facebook account just for staying Malacañang helpless while cases of Covid-19 increases. Even Duterte follows the <a href="https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-social-distancing-and-self-quarantine">quarantine protocol</a>, why the bashers still bashing Duterte despite this. Recently, <a href="https://www.msn.com/en-ph/news/national/timeline-koko-pimentel-repeatedly-broke-quarantine-despite-symptoms-covid-19-test/ar-BB11JnQq?li=BBr8zL6">Senator Koko Pimentel breaks his quarantine protocol by bringing his pregnant wife to Makati Medical Center on March 24</a> despite he is being under "Persons Under Investigation" (PUI). Pimentel announced that he is tested postive for the virus.</p>
+      
+          <p>
+        Pimentel becomes the target of online backlash, even the supporters of Duterte, and some considering to call him to resign using the hashtag "#KokoResign".
+        </p>
+
+        <h5>Taal Volcano eruption</h5>
+        <center><table>
+  <tr>
+    <th><a href="img/FB_IMG_1578974357568.jpg"><img src="img/FB_IMG_1578974357568.jpg" width="270.4" height="384"></a></th>
+    <th><a href="img/FB_IMG_1578974296462.jpg"><img src="img/FB_IMG_1578974296462.jpg" width="180" height="287"></a></th>
+    <th><a href="img/FB_IMG_1578973894444.jpg"><img src="img/FB_IMG_1578973894444.jpg" width="178.75" height="161"></a></th>
+    <th><a href="img/FB_IMG_1578927230654.jpg"><img src="img/FB_IMG_1578927230654.jpg" width="135" height="97"></a></th>
+     <th><a href="img/FB_IMG_1578927191542.jpg"><img src="img/FB_IMG_1578927191542.jpg" width="205.7142857" height="67.14285714"></a></th>
+  </tr>
+</table></center>
+
+        <p>
+        When Taal Volcano erupted on January 12, 2020, many critics of Duterte grabbed their phone and slammed him through social media accounts. It was mainly due to Duterte lack of action, despite the local government worked harder for distributing the relief goods to the affected residents.
+    </p>
+        
+        <p>
+        Some netizens have been compared to the 1977 eruption, which occurs during the time of Ferdinand Marcos — whom Duterte idolizes — dictatorship.</p>
+        <center><a href="img/FB_IMG_1579009158111.jpg"><img src="img/FB_IMG_1579009158111.jpg" width="288" height="181.6"></a></center>
+
+        <p>
+        The bashing eased the next two weeks.</p>
                 </div>
             </div>
             
@@ -119,3 +159,6 @@
 
     </footer>
     <!-- Footer -->
+
+</body>
+</html>

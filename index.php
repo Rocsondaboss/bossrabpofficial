@@ -1,6 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The bashing against Duterte (January-April 2020)</title>
+</head>
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<body>
 
 <!------ Include the above in your HEAD tag ---------->
 
@@ -49,8 +57,8 @@
                 <div class="card">
                     <img class="card-img-top" src="img/no_image.png" alt="Card image cap">
                     <div class="card-block p-3">
-                        <h4 class="card-title">My title</h4>
-                        <p class="card-text">The following is the content of the title.</p>
+                        <h4 class="card-title">The bashing of Duterte (January-April 2020)</h4>
+                        <p class="card-text"> </p>
                         <a href="this-is-the-article.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
                     </div>
                 </div>
@@ -127,3 +135,6 @@
 
     </footer>
     <!-- Footer -->
+
+</body>
+</html>
