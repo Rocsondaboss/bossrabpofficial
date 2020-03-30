@@ -52,8 +52,7 @@
     <!-- Card -->
     <!-- Card -->
     <div class="container container mt-4 mb-9" style="margin-top: 25px;">
-        <h3 class="display-4 text-center"> RABP </h3>
-        <hr class="bg-dark mb-4 w-25">
+        <hr class="bg-dark mb-4 w-25" style="margin-top: 85px;">
         <h1 style="font-size:50px;">The bashing against Duterte (January-April 2020)</h1>
         <h1 style="font-size:16px;">Posted on March 30, 2020</h1>
 

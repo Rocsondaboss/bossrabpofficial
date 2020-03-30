@@ -8,54 +8,23 @@
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
-<body>
-
-<!------ Include the above in your HEAD tag ---------->
-
-
     <!-- Navigation -->
    <?php include 'includes/navbar.php';?>
     <!-- Navigation -->
 
+    <body>
 
-    <!-- Carousel Slider -->
-    <div id="carouselLogo" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselLogo" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselLogo" data-slide-to="1"></li>
-            <li data-target="#carouselLogo" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselLogo" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLogo" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-    <!-- Carousel Slider -->
+<!------ Include the above in your HEAD tag ---------->
 
     <!-- Card -->
-    <div class="container container mt-4 mb-9" style="margin-top: 25px;">
-        <h3 class="display-4 text-center"> Welcome to RABP </h3>
+    <div class="container container mt-4 mb-9" >
+        <h3 class="display-4 text-center" style="margin-top: 85px;"> Welcome to RABP </h3>
         <hr class="bg-dark mb-4 w-25">
         <div class="row">
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/no_image.png" alt="Card image cap">
+                    <img class="card-img-top" src="img/FB_IMG_1578973894444.jpg" alt="Card image cap">
                     <div class="card-block p-3">
                         <h4 class="card-title">The bashing of Duterte (January-April 2020)</h4>
                         <p class="card-text"> </p>
