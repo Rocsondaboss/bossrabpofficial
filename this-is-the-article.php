@@ -40,30 +40,22 @@
     <!-- Carousel Slider -->
 
     <!-- Card -->
+    <!-- Card -->
     <div class="container container mt-4 mb-9" style="margin-top: 25px;">
-        <h3 class="display-4 text-center"> Welcome to RABP </h3>
+        <h3 class="display-4 text-center"> RABP </h3>
         <hr class="bg-dark mb-4 w-25">
-        <div class="row">
-
-            <div class="col-md-4">
-                <div class="card">
-                    <img class="card-img-top" src="img/no_image.png" alt="Card image cap">
-                    <div class="card-block p-3">
-                        <h4 class="card-title">My title</h4>
-                        <p class="card-text">The following is the content of the title.</p>
-                        <a href="this-is-the-article.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
-                    </div>
+        <h1 style="font-size:50px;">My title</h1>
                 </div>
             </div>
-
-          
-
+            
+            </div>
         </div>
     </div>
     <!-- Card -->
+    <!-- Card -->
 
     <!-- Pagination -->
- 
+
       <!-- Pagination -->
 
     <!-- Footer -->
