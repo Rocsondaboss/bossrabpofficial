@@ -7,7 +7,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand text-white" href="#">Bootstrap 4</a>
+            <a class="navbar-brand text-white" href="#"><img src="img/rabp logo.png" alt="" width="134px" height="48.66"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -33,6 +33,7 @@
         </div>
     </nav>
     <!-- Navigation -->
+    
 
     <!-- Carousel Slider -->
     <div id="carouselLogo" class="carousel slide" data-ride="carousel">
