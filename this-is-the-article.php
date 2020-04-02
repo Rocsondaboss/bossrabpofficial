@@ -84,6 +84,33 @@
 
         <p>
         The bashing eased the next two weeks.</p>
+
+        <h5>The arrest of Vico Sotto</h5>
+        <p>
+
+        <h5>Who are the best known critics of Rodrigo Duterte?</h5>
+
+        <ul>
+  <li>Jim Paredes</li>
+  <li>Richard Heydarian</li>
+  <li>Leah Navarro</li>
+    <li>Jover Laurio (of Pinoy Ako Blog)</li>
+      <li>Frank Baraan IV</li>
+      <li>Agot Isidro</li>
+      <li>Florin "Pilo" Hilbay</li>
+      <li>Antonio Trillanes</li>
+      <li>Risa Hontiveros</li>
+      <li>Franklin Drilon</li>
+      <li>Francis "Kiko" Pangilinan</li>
+      <li>Cynthia Patag</li>
+      <li>Vicki Garchitorena</li>
+      <li>Raissa Robles</li>
+      <li>Countless others...</li>
+
+
+
+</ul>  
+
                 </div>
             </div>
             
