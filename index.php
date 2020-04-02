@@ -24,7 +24,7 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/FB_IMG_1578973894444.jpg" alt="Card image cap">
+                    <img class="card-img-top" src="img/FB_IMG_1578973894444.jpg" alt="">
                     <div class="card-block p-3">
                         <h4 class="card-title">The bashing of Duterte (January-April 2020)</h4>
                         <p class="card-text"> </p>
@@ -35,7 +35,7 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/badang.png" alt="Card image cap">
+                    <img class="card-img-top" src="img/badang.png" alt="">
                     <div class="card-block p-3">
                         <h4 class="card-title">Top memes of 2010</h4>
                         <p class="card-text">These are the list of memes of 2010-2019.</p>
@@ -43,6 +43,19 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-block p-3">
+                        <h4 class="card-title">What did anti-Duterte netizens did on social media?</h4>
+                        <p class="card-text"> </p>
+                        <a href="what-did-anti-Duterte-netizens-did-on-social-media.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+
 
           
 
