@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>The bashing against Duterte (January-April 2020)</title>
+<title>Welcome to R.A.B.P.</title>
 </head>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -51,6 +51,17 @@
                         <h4 class="card-title">What did anti-Duterte netizens did on social media?</h4>
                         <p class="card-text"> </p>
                         <a href="what-did-anti-Duterte-netizens-did-on-social-media.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="" alt="">
+                    <div class="card-block p-3">
+                        <h4 class="card-title">Top 20 songs played on radio</h4>
+                        <p class="card-text">The count data are coming from the internet radio stations</p>
+                        <a href="top-20-songs-played-on-radio.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
                     </div>
                 </div>
             </div>

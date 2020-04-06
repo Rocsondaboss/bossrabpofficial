@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Top memes used by the YouTubers | RABP</title>
+<title>What did anti-Duterte netizens did on social media? | RABP</title>
 </head>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -28,7 +28,8 @@
         <h1 style="font-size:16px;">Posted on April 2, 2020</h1>
 
        <h5>Blaming Duterte for natural calamities and terrorism incidents</h5>
-       <p>Whatever calamities strike in our country (i.e. earthquakes, typhoons, floods, volcanic eruptions, viral outbreaks, etc.), anti-Duterte figures on social media are most likely to grab their devices to mock, lambast, and even blame Duterte for various reasons. The first thing anti-Duterte netizens do is to look for Duterte's silence, tardiness, and/or laziness. If Duterte did not act for at least 3 hours after the calamity strike, the netizens are ready to express their words in social media. For the terrorism part, the negative reactions against Duterte on social media would be likely high.</p>
+       <center><a href="img/FB_IMG_1578927230654.jpg"><img src="img/FB_IMG_1578927230654.jpg" width="216" height="155.2"></a></center>
+       <p>Whatever calamities strike in our country (i.e. earthquakes, typhoons, floods, volcanic eruptions, viral outbreaks, etc.), anti-Duterte figures on social media are most likely to grab their devices to mock, lambast, and even blame Duterte for various reasons. The first thing anti-Duterte netizens do is to look for Duterte's silence, tardiness, and/or laziness. If Duterte did not act for at least 3 hours after the calamity strike, the netizens are ready to express their words in social media. For the terrorism part, expect the higher of negative words against Duterte.</p>
 
        <h5>Mocking Duterte for wearing informal attire</h5>
        <p>Unlike the most world leaders wearing tuxedos in front of the mainstream media, Duterte usually wears simple and casual attire in front of a public eye. Any unkempt attire (such as improperly wearing neck tie, missing buttons at the T-shirt, misaligned collar) present on Duterte will trigger anti-Duterte mockery on social media, in which netizens would compare Duterte unfavorably to the other leaders.</p>
@@ -45,7 +46,7 @@
         <h5>Blaming the government for high prices of basic goods and oil</h5>
         <p>In December 2017, Duterte signed the Tax Reform for Acceleration and Inclusion Act (TRAIN) law that lower personal income tax and increasing the tax on tobacco goods, petroleum products, beverages, etc. The TRAIN law triggered simultaneous protests on January to June 2018, blaming the high prices due to that law. What matters worse is when the inflation gradually increases also due to that law. However, the protests against it become sporadic when the inflation decreases.</p>
 
-        <h5>Calling Duterte to “oust" from office</h5>
+        <h5>Calling Duterte to "oust" from office</h5>
         <p>The <a href="http://www.gmanetwork.com/news/news/nation/668964/linking-critics-to-red-october-destab-plot-a-martial-law-tactic-robredo/story/">allegations of ousting plots against Duterte started on September 2018</a>. Initially, several groups filed for the impeachment of Duterte following the incident at the Reed Bank on June 10, 2019 but it never came into fruition. When the impeachment will never work anymore as the Senate is dominated by the Duterte allies and the House of Representatives is dominated by the PDP-Laban (Duterte’s political party), several protesters instead called for the ousting of Duterte. The hashtag <b>#OustDuterte</b> trended on Twitter in the Philippines following <a href="https://news.abs-cbn.com/news/01/30/20/philippines-confirms-first-case-of-new-coronavirus">the entry of Covid-19 in the country on January 30, 2020</a>.</p>
 
         
