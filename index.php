@@ -46,7 +46,7 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="img/FB_IMG_1578927230654.jpg" alt="">
                     <div class="card-block p-3">
                         <h4 class="card-title">What did anti-Duterte netizens did on social media?</h4>
                         <p class="card-text"> </p>
@@ -57,14 +57,18 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top" src="img/richheyd.jpg" alt="">
                     <div class="card-block p-3">
-                        <h4 class="card-title">Top 20 songs played on radio</h4>
-                        <p class="card-text">The count data are coming from the internet radio stations</p>
-                        <a href="top-20-songs-played-on-radio.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
+                        <h4 class="card-title">List of notable critics of Rodrigo Duterte</h4>
+                        <p class="card-text">These are the list of notable critics of Duterte (2016-present)</p>
+                        <a href="list-of-notable-critics-of-rodrigo-duterte.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
                     </div>
                 </div>
             </div>
+
+           
+
+            
 
 
 

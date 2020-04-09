@@ -85,8 +85,8 @@
         <p>
         The bashing eased the next two weeks.</p>
 
-        <h5>The arrest of Vico Sotto</h5>
-        <p>
+        <h5>Related to Vico Sotto</h5>
+        <p></p>
 
         <h5>Who are the best known critics of Rodrigo Duterte?</h5>
 

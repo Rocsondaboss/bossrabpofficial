@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Top memes used by the YouTubers in the Philippines | RABP</title>
+<img src="img/rabp logo.png">
 </head>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -19,36 +20,6 @@
     <!-- Navigation -->
    <?php include 'includes/navbar.php';?>
     <!-- Navigation -->
-
-
-    <!-- Carousel Slider -->
-    <div id="carouselLogo" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselLogo" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselLogo" data-slide-to="1"></li>
-            <li data-target="#carouselLogo" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block img-fluid" src="http://www.facenet.org/wp-content/themes/executive/assets/images/header.jpg" alt="First slide">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselLogo" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselLogo" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-    <!-- Carousel Slider -->
 
     <!-- Card -->
     <!-- Card -->
@@ -71,7 +42,7 @@
 
         <h5>Badang</h5>
         <h1 style="font-size:15px;"><img src="img/youtube.svg" width="15" height="15"><a href="#">Video link</a></h2>
-        <p>The video, recorded in a style of first-person perspective, dated 2018 showing the fliptop rapper Badang being berated by the man for raping the man's daughter at her room while drunk. After the heated wrath, the video then cuts to the baranggay captains office where the victim explains the Badang's crime to the official. The man decides to file the case against Badang and he is seen entering at the cell.</p>
+        <p>The video, recorded in a style of first-person perspective, dated 2018 showing the FlipTop rapper Badang being berated by the man for allegedly raping the man's daughter at her room while drunk. After the heated wrath, the next video showing Badang having brought by the man to the barangay hall where the victim explains the Badang's crime to the officials. The man decides to file the case against Badang and he is seen entering at the cell.</p>
 
         <h5>Taph</h5>
         <h1 style="font-size:15px;"><img src="img/youtube.svg" width="15" height="15"><a href="https://www.youtube.com/watch?v=jZmjZjOGCzE">Video link</a></h2>
@@ -79,11 +50,18 @@
                 <img src="img/taphmeme.jfif" alt="Trulli" style="width:45%">
                 <figcaption>A screenshot of a man performing a "rap battle" on Taph video.</figcaption>
             </figure>
-        <p>The video was recorded in a low resolution dated 2013 showing the man apparently with <a href="https://en.wikipedia.org/wiki/Down_syndrome">Down's syndrome</a> competing with a muted boy (who speaks vaguely) in what was called the "rap battle." During the course of a "battle", they are being ridiculed by the tricycle drivers and other bystanders, especially towards the boy. Minutes later, the man approaches the boy and appears to demand the boy an apology; when the boy continues to speak, the man pushes him forward and then he mocks the boy. The video ends with a boy speaking towards the camera disappointed. The man becomes the subject of the memes.</p>
+        <p>The video was recorded in a low resolution dated 2013 showing the man apparently with <a href="https://en.wikipedia.org/wiki/Down_syndrome">Down's syndrome</a> competing with a muted boy (who speaks vaguely) in what was called the "rap battle." During the course of a "battle", the two exchanges words and they are being ridiculed by the tricycle drivers and other bystanders, especially towards the boy. Minutes later, the man approaches the boy and appears to demand the boy an apology; when the boy continues to speak, the man pushes him forward and then he mocks the boy. The video ends with a boy speaking towards the camera disappointed. The man becomes the subject of the memes.</p>
+
+        <h5>"Paano mo nasabi?"</h5>
+                <figure>
+                    <img src="https://i.ytimg.com/vi/dt86cWk9Yk0/maxresdefault.jpg" alt="The image contains the police officer and the man with bald hair" style="width:45%">
+                    <figcaption>The man (right) who phrased "Paano mo nasabi?"</figcaption>
+                </figure>
+        <p>"Paano mo nasabi?" is the phrase used by the man identified as Robert Nocos. The man is the primary suspect for allegedly stabbing a cashier and killing a waitress after she refused to have an sexual intercourse with him. The suspect gained prominence after generating the phrase "Paano mo nasabi?", which the man uses it to deviate the questions from the media who asked him. Since then, the man become the target of the memes by the online community and the YouTubers.</p>
 
         <h5>DotA trash-talk</h5>
         <h1 style="font-size:15px;"><img src="img/youtube.svg" width="15" height="15"><a href="https://www.youtube.com/watch?v=rDHnHdA56Gw">Video link</a></h2>
-        <p>In this half-minute-length video, the man in a red sando <a href="https://en.wikipedia.org/wiki/Trash-talk">trash-talks</a> the other players by yelling "<i>p*******na</i>" ("M*******er") while playing Defense of the Ancients (DotA) on the computer. The man then continues to throw insults.</p>
+        <p>In this half-minute-length video, dated 2013, the man in a red sando <a href="https://en.wikipedia.org/wiki/Trash-talk">trash-talks</a> the other players by yelling "<i>p*******na</i>" ("M*******er") while playing Defense of the Ancients (DotA) on the computer. The man then continues to throw insults. That cursing word was still used by the online communities.</p>
 
         <h5>Mga bobo!</h5>
         <h1 style="font-size:15px;"><img src="img/youtube.svg" width="15" height="15"><a href="https://www.youtube.com/watch?v=rDHnHdA56Gw">Video link</a></h2>
@@ -106,17 +84,6 @@
 
         <h5>Jack Stauber's "Buttercup"</h5>
         <p>Aside from the favorite Robert Weide end credits, Filipino YouTubers also uses the song Jack Stauber's "Buttercup" on their memes. It is used when the person in the video gets hurt, performing stunts fail, etc.</p>
-
-        
-
-
-
-
-        
-
-
-
-
 
                 </div>
             </div>
