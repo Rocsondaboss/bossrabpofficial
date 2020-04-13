@@ -60,8 +60,8 @@
        <h5>Richard Heydarian</h5>
 
         <figure>
-            <img src="img/richheyd.jpg" alt="" style="width:25%">
-            <figcaption></figcaption>
+            <img src="img/richheyd3.jpg" alt="" style="width:25%">
+            <figcaption>Photo taken from Richard Heydarian's Facebook account</figcaption>
         </figure>
 
        <p>Richard Javad Heydarian is a Manila-based academic, having taught political science at Ateneo De Manila University and De La Salle University, Philippines. Heydarian is also a columnist of <i>Philippine Daily Inquirer</i>. Over the course of Duterte administration, Heydarian become one of the critics of Duterte, constantly addressing about the killings during the war on drugs, issues of South China Sea dispute, and others using his Twitter account.</p>

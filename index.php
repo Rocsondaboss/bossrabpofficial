@@ -57,11 +57,22 @@
 
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="img/richheyd.jpg" alt="">
+                    <img class="card-img-top" src="img/richheyd3.jpg" alt="">
                     <div class="card-block p-3">
                         <h4 class="card-title">List of notable critics of Rodrigo Duterte</h4>
                         <p class="card-text">These are the list of notable critics of Duterte (2016-present)</p>
                         <a href="list-of-notable-critics-of-rodrigo-duterte.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="img/platk2.png" alt="">
+                    <div class="card-block p-3">
+                        <h4 class="card-title">WATCH: Top funny videos you want to watch on Youtube</h4>
+                        <p class="card-text">This video showing the little boy on stage being interviewed by the host</p>
+                        <a href="watch-top-funny-videos-you-want-to-watch-on-youtube.php" class="btn btn-primary rounded-0 mb-2">Read More</a>
                     </div>
                 </div>
             </div>
