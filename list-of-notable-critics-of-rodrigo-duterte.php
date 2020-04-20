@@ -89,9 +89,9 @@
             <figcaption></figcaption>
         </figure>
 
-        <p>Leila de Lima is known for vocal criticism against Duterte particularly the government's war on drugs and the human rights. The news of <a href="https://www.nytimes.com/2017/02/23/world/asia/arrest-duterte-leila-de-lima.html">arrest of de Lima for allegedly violating the drug trafficking law</a> on February 23, 2017 shook the nation as well as from the international news outlets. De Lima <a href="http://cnnphilippines.com/news/2017/02/24/leila-de-lima-arrested-over-drug-charges.html">turned herself in the following morning</a> of February 24. She has also been referred to as a 'prisoner of conscience' by numerous international human rights organizations. Efforts made by international human rights advocates to release de Lima from prison have been made throughout the years, but it never came it fruition as the Philippine government did not tackle it.</p>
+        <p>Leila de Lima is known for vocal criticism against Duterte particularly the government's war on drugs and the human rights. The news of <a href="https://www.nytimes.com/2017/02/23/world/asia/arrest-duterte-leila-de-lima.html">arrest of de Lima for allegedly violating the drug trafficking law</a> on February 23, 2017 shook the nation as well as from the international news outlets. De Lima <a href="http://cnnphilippines.com/news/2017/02/24/leila-de-lima-arrested-over-drug-charges.html">turned herself in the following morning</a> of February 24. She has also been referred to as a 'prisoner of conscience' by numerous international human rights organizations. Her detention was widely condemned by international human rights and her colleagues. Efforts made by international human rights advocates to release de Lima from prison have been made since her detention.</p>
 
-        <p>During her detention, de Lima regularly made a statement through her letter sent to the media, criticizing various policies of Duterte.</p>
+        <p>During her detention, de Lima regularly made a statement through her letter and Twitter account, criticizing various policies of Duterte.</p>
 
         <h5>Risa Hontiveros</h5>
         <figure>
@@ -105,7 +105,7 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZmEYPid9uAp_oEwiKsv50HgNr1VC2zGHjFC1RU5KFUUU_gVAH&usqp=CAU" alt="" style="width:25%">
             <figcaption></figcaption>
         </figure>
-        <p>Paredes is a member of Apo Hiking Society and a known supporter of Liberal Party candidates, who denounced Duterte as the president.</p>
+        <p>Paredes is a member of Apo Hiking Society and a known supporter of Liberal Party candidates, who denounced Duterte as the president since 2016 elections.</p>
 
         <h5>Franklin Drilon</h5>
         <figure>
@@ -141,7 +141,7 @@
             <img src="img/jover.jpg" alt="" style="width:25%">
             <figcaption>Courtesy of Jover Laurio's Facebook account</figcaption>
         </figure>
-        <p>Jover Laurio constantly throws a shade against Duterte for every move that he made, as well as Mocha Uson, who is controversially known for spreading fake news. You can check her official Twitter account, Pinoy Ako Blog.</p>
+        <p>Jover Laurio constantly throws a shade directly against Duterte and the government for every move that they made, as well as Mocha Uson, who is controversially known for spreading fake news. You can check her official Twitter account, Pinoy Ako Blog.</p>
 
         
         <h5>Raissa Robles</h5>
@@ -149,7 +149,7 @@
             <img src="img/raissa.jpg" alt="" style="width:25%">
             <figcaption></figcaption>
         </figure>
-        <p>A journalist from Rappler, Robles is known for constantly throws against Duterte and the government.</p>
+        <p>A journalist from Rappler, Robles is known for constantly throws against Duterte and the government (even the good ones).</p>
 
         <h5>Maria Ressa</h5>
         <figure>
@@ -157,6 +157,8 @@
             <figcaption></figcaption>
         </figure>
         <p>Ressa, the CEO of Rappler, also hit Duterte and the government through her social media. Her criticism further motivated when the SEC plans to revoke Rappler's license on January 2018 on due to its use of "Philippine Depository Receipts (PDRs)". The decision triggered massive condemnation from militant groups, calling it "the attack on press freedom".</p>
+
+        
  
         
 

@@ -79,7 +79,7 @@
             <iframe width="560" height="315" src="https://www.youtube.com/embed/6fZwJFjiA0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
         </figure>
-        <p>This 13-second video was uploaded in April 2014 where the kid, from Philippines, singing Disney's <i>Frozen</i> theme song "Let it Go". In the video, we see the kid in the beginning singing chorus of the song, but after the kid coughs twice, the stuff coming out from his nose. The boy did not quickly wipe his stuff out; with the stuff still clinging on it, the boy stops the recording of the video. It is unclear that these video whether the kid covers the song and deliberately expels his stuff from his nose as the meaning of "let it go" or it's just the fail moments.
+        <p>This 13-second video was uploaded in April 2014 where the kid, from Philippines, singing Disney's <i>Frozen</i> theme song "Let it Go". In the video, we see the kid in the beginning singing chorus of the song, but after the kid coughs twice, the stuff coming out from his nose. The boy did not quickly wipe his stuff out; with the stuff still clinging on it, the boy stops the recording of the video. It is unclear whether the kid covers the song and deliberately expels his stuff from his nose as the meaning of "let it go" or it's just the fail moments.
 
         <p>This video was originated from Facebook source and it was re-uploaded in YouTube. The commentators on the video showing fun and disgusted (but it is funny anyway). About one or two weeks after the video was uploaded, a YouTube video was uploaded by an American girl criticize the kid stating that how disgust and shame the kid was. However, the video of the girl has since been deleted.</p>
 
@@ -108,7 +108,7 @@
         </figure>
                 <p>The video was recorded in a low resolution camera dated 2013 showing the man apparently diagnosed with <a href="https://en.wikipedia.org/wiki/Down_syndrome">Down's syndrome</a> competing with a muted boy (who speaks vaguely) in what was called the "rap battle." Set in unspecified Philippine province, during the course of a "battle", the two exchanges words and they are being ridiculed by the tricycle drivers and other bystanders, especially towards the boy. The boy even sweep the camera towards him, probably because the recorder is in favor to the man, and appears to express the unfairness towards the boy.</p>
 
-                <p>Minutes later, the man approaches the boy and appears to demand the boy an apology; when the boy continues to speak, the man pushes him forward and then he finishes his monologue by taunting the boy. The video ends with a boy speaking towards the camera disappointed. The man mainly becomes the subject of the memes.</p>
+                <p>Minutes later, the man approaches the boy and appears to demand the boy an apology; when the boy continues to speak, the man pushes him. The man finishes his monologue by taunting the boy. The video ends with a boy speaking towards the camera disappointed. The man mainly becomes the subject of the memes.</p>
 
                 <h5>6. Man smashes TV</h5>
         <figure>
@@ -116,9 +116,29 @@
         </figure>
         <p>The video showing the black man angrily smashes the flat-screen TV after Golden State Warriors loses the game against the Houston Rockets in during the Western Conference Semi-Finals of <a href="https://en.wikipedia.org/wiki/2019_NBA_playoffs">2019 NBA playoffs</a>.</p>
 
-        <p>In this video, the man has just placed the bet for the Golden State Warriors but things get worse when GSW loses the game against Rockets, therefore loses much of his money. The man angrily smashes the TV while angrily saying "F*ck you [Stephen] Curry! B***h!". Another man tries to comfort the man by saying "It's just a game" but the latter pushes him out of the room. The man then smashes another flat-screen TV.</p>
+        <p>In this video, the man has just placed the bet for the Golden State Warriors but things get worse when GSW loses the game against Rockets, therefore loses much of his money. The man angrily smashes the TV while angrily saying "F*ck you [Stephen] Curry! B***h!". Another man tries to comfort the man by saying "It's just a game" but the latter pushes him out of the room. The man then smashes another flat-screen TV, which also inadvertently drops another TV beside it.</p>
 
         <p>Ultimately, the GSW advanced the series to compete with Portland Trail Blazers at the Conference Finals, which the GSW won to advance the Finals. GSW loses the game against Toronto Raptors.</p>
+
+        <h5>7. Totoy Abnoy laughter</h5>
+        <figure>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BuphVFjcIfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </figure>
+        <p>This out-of-mind man known only as "Totoy Abnoy" have made a series of videos containing nonsensical dialogues. This example above is the man talking about his intentions of "stabbing everybody", "killing everybody", "kidnapping Kikay" and "Marie", and warns that to "get ready" and to "hide". He ends his monologue by laughing hysterically.</p>
+
+        <h5>8. "Wala na, finish na"</h5>
+        <figure>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/mRIlKQoBkfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </figure>
+        <p>The "Wala na, finish na" quote was used by alleged 25-year-old drug-addict Bethoven Delmar, Jr. This December 2015 News5 video report states that the man was arrested in Cubao after he invaded the home and raped one of the girls. The man says that he was under the influence of drugs and alcohol when he made the crime. When he invaded the home, he grabbed the knife and threatened to stab her if she refuses to quiet. The man also added that rape is his "hobby".</p>
+
+        <p>He also said that he is lucky to be alive when Duterte did not yet to be seated as the President, and when Duterte is now the president, he says "Wala na, finish na" ("It's gone, it's over"). The man becomes the subject by the online communities.</p>
+
+        <h5>9. Taste the feeling</h5>
+        <figure>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/7XX9P-7OcGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </figure>
+        <p>This video showing the boy sipping some of the contents of 1-liter Coca-Cola bottle, accompanied by official Coca-Cola theme song "Taste the Feeling" by Avicii and Conrad Sewell.</p>
    
 
 
